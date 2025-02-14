@@ -86,7 +86,6 @@ country-explorer/
 ├── assets/                  # Static assets (images, fonts, etc.)
 │   ├── fonts/               # Custom fonts (Axiforma)
 │   └── images/              # App images (logo, splash screen, etc.)
-├── src/
 │   ├── components/          # Reusable components (CustomText, CountryItem, etc.)
 │   ├── constants/           # Constants (themes, fonts, etc.)
 │   ├── context/             # Context providers (ThemeContext)
@@ -110,19 +109,19 @@ The app supports light and dark themes, which can be toggled by the user. The th
 
 ```ts
 export const lightTheme = {
-  background: '#FFFFFF',
-  text: '#000000',
-  cardBackground: '#F5F5F5',
-  skeletonBackground: '#E1E1E1',
-  primary: '#FF6B00',
+  background: "#FFFFFF",
+  text: "#000000",
+  cardBackground: "#F5F5F5",
+  skeletonBackground: "#E1E1E1",
+  primary: "#FF6B00",
 };
 
 export const darkTheme = {
-  background: '#121212',
-  text: '#FFFFFF',
-  cardBackground: '#1E1E1E',
-  skeletonBackground: '#2A2A2A',
-  primary: '#FF6B00',
+  background: "#121212",
+  text: "#FFFFFF",
+  cardBackground: "#1E1E1E",
+  skeletonBackground: "#2A2A2A",
+  primary: "#FF6B00",
 };
 ```
 
@@ -197,7 +196,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out:
 
 - **Email**: olumofe6@gmail.com
-- **GitHub**: [your-username](https://github.com/pharm-ack)
+- **GitHub**: [Pharm-ack](https://github.com/pharm-ack)
 
 ---
 
